@@ -1,5 +1,5 @@
 # Income Prediction Machine Learning
-This is my code for a [kaggle competition](https://www.kaggle.com/c/tcdml1920-income-ind/) to a persons predict in come in Euro base on their:
+This is my code for a [kaggle competition](https://www.kaggle.com/c/tcdml1920-income-ind/) to predict a persons income in Euro base on their:
 * Year of Record
 * Gender
 * Age
